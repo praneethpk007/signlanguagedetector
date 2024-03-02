@@ -1,0 +1,13 @@
+# Ignore Tensorflow/labelImg folder
+Tensorflow/labelImg/
+
+# Ignore Tensorflow/workspace/images/train folder
+Tensorflow/workspace/images/train/
+
+# Ignore Tensorflow/workspace/images/test folder
+Tensorflow/workspace/images/test/
+
+Tensorflow/models
+
+Tensorflow/workspace/models/my_ssd_mobnet
+
